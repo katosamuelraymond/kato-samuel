@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I’m **sam Ray**</h1>
+<h1 align="center">Hi 👋, I’m <strong>sam Ray</strong></h1>
 <h3 align="center">Full-Stack Developer | Web • Backend • Mobile</h3>
 
 ---
@@ -12,29 +12,29 @@ Driven by curiosity and purpose, I build solutions that bridge user needs and sc
 ### 🛠️ What I Work With
 
 #### 💻 Languages  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 
 #### 🧱 Frameworks & Libraries  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
-![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)  
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)  
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)  
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)  
+[![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)](https://quasar.dev/)
 
 #### 🧰 Tools & Practices  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![REST APIs](https://img.shields.io/badge/REST‐APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white)  
-![Responsive Design](https://img.shields.io/badge/Responsive-Design-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
+[![REST APIs](https://img.shields.io/badge/REST‐APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)  
+[![Responsive Design](https://img.shields.io/badge/Responsive-Design-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 
 ---
 
 ### 🔭 What I’m Doing Now
 
-- Building backend APIs and services using **Laravel**  
-- Developing cross-platform mobile apps with **Flutter**  
-- Integrating full-stack solutions using **React, Vue, Quasar**  
+- Building backend APIs and services using **[Laravel](https://laravel.com/)**  
+- Developing cross-platform mobile apps with **[Flutter](https://flutter.dev/)**  
+- Integrating full-stack solutions using **[React](https://react.dev/)**, **[Vue](https://vuejs.org/)**, and **[Quasar](https://quasar.dev/)**
 
 ---
 
@@ -55,4 +55,4 @@ Driven by curiosity and purpose, I build solutions that bridge user needs and sc
 
 ---
 
-⭐ From [katosamuelraymond](https://github.com/katosamuelraymond)  
+⭐ From [katosamuelraymond](https://github.com/katosamuelraymond)
