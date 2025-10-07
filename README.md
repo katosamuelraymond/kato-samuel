@@ -51,7 +51,7 @@ Driven by curiosity and purpose, I build solutions that bridge user needs and sc
 
 ### 📫 Contact & Reach Me
 
-📧 **Email:** [katosamuelraymondmarvinhosborm@gmail.com](mailto:katosamuelraymondmarvinhosborm@gmail.com)  
+📧 **Email:** [katosamuelraymondmarvinhosborm@gmail.com](mailto:katosamuelraymondmarvinhosborn@gmail.com)  
 
 ---
 
